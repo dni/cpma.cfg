@@ -6,10 +6,10 @@
 weapon 1 = Gaunlet
 weapon 2 = Machinegun
 weapon 3 = Shotgun
-weapon 4 = Grenagelauncher
-weapon 5 = Rocketlauncher
-weapon 6 = Lightninggun
-weapon 7 = Railgun
+weapon 4 = Grenade
+weapon 5 = Rocket
+weapon 6 = Lightning
+weapon 7 = Rail
 weapon 8 = Plasma
 weapon 9 = BFG
 
