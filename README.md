@@ -2,6 +2,7 @@
 
 ## WEAPONS
 
+``
 weapon 1 = Gaunlet
 weapon 2 = Machinegun
 weapon 3 = Shotgun
@@ -13,6 +14,7 @@ weapon 8 = Plasma
 weapon 9 = BFG
 
 bind i "weapon 6"
+``
 
 ## TDM binds
 
