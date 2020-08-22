@@ -1,30 +1,33 @@
 # HELLO, CPMA Configs of some players ;)
 
-## WEAPONS
+# WEAPONS
 
 ```sh
-weapon 1 = Gaunlet
-weapon 2 = Machinegun
-weapon 3 = Shotgun
-weapon 4 = Grenade
-weapon 5 = Rocket
-weapon 6 = Lightning
-weapon 7 = Rail
-weapon 8 = Plasma
-weapon 9 = BFG
-
-bind i "weapon 6"
+bind 1 "weapon 1" // Gaunlet
+bind 2 "weapon 2" // Machinegun
+bind 3 "weapon 3" // Shotgun
+bind 4 "weapon 4" // Grenade
+bind 5 "weapon 5" // Rocket
+bind 6 "weapon 6" // Lightning
+bind 7 "weapon 7" // Rail
+bind 8 "weapon 8" // Plasma
+bind 9 "weapon 9" // BFG
 ```
 
-## TEAM binds
+# COLORS
+
+# TEAM binds
 ```sh
-bind 1          "say_team POWERUP SOON"
-bind 2          "say_team ^dBATSUIT^7INVIS^0SOON"
-bind 3          "say_team ^1RA SOON"
-bind 4          "say_team ^3YA SOON"
-bind 5          "say_team ^2Come Get ^7#I;"
-bind 6          "say_team #L TAKEN"
-bind 7          "say_team ^2!! #w for #f;drop"
+bind 1 "say_team POWERUP SOON"
+bind 2 "say_team ^dBATSUIT^7INVIS^0SOON"
+bind 3 "say_team ^1RA SOON"
+bind 4 "say_team ^3YA SOON"
+bind 5 "say_team ^2Come Get ^7#I;"
+bind 6 "say_team #L TAKEN"
+```
+## drop weapon
+```sh
+bind 7 "say_team ^2!! #w for #f;drop"
 ```
 ## drop all weapons
 ```sh
