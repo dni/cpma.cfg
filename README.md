@@ -2,7 +2,7 @@
 
 ## WEAPONS
 
-```
+```sh
 weapon 1 = Gaunlet
 weapon 2 = Machinegun
 weapon 3 = Shotgun
@@ -27,12 +27,12 @@ bind 6          "say_team #L TAKEN"
 bind 7          "say_team ^2!! #w for #f;drop"
 ```
 ## drop all weapons
-```
+```sh
 bind 8 "say_team ^2DROPPING ALL WEAPONS;vstr rain;vstr rain;vstr rain;drop mg;wait 50;drop sg; wait 50;drop gl;wait 50;drop lg;wait 50;drop rl;wait 50;drop pg;wait 50;drop rg;wait 50;drop bfg"
 ```
 
 ## CTF binds
-```
+```sh
 bind MWHEELDOWN "say_team low"
 bind MWHEELUP   "say_team high"
 bind MOUSE3     "say_team mid"
