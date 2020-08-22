@@ -15,9 +15,17 @@ bind 9 "weapon 9" // BFG
 ```
 
 # COLORS
+- ![#020100](https://via.placeholder.com/15/020100/000000?text=+) `^0`
 - ![#fd0004](https://via.placeholder.com/15/fd0004/000000?text=+) `^1`
 - ![#00f700](https://via.placeholder.com/15/00f700/000000?text=+) `^2`
 - ![#ffff03](https://via.placeholder.com/15/ffff03/000000?text=+) `^3`
+- ![#7368f3](https://via.placeholder.com/15/7368f3/000000?text=+) `^4`
+- ![#00feff](https://via.placeholder.com/15/00feff/000000?text=+) `^5`
+- ![#ff00fe](https://via.placeholder.com/15/ff00fe/000000?text=+) `^6`
+- ![#fcfffd](https://via.placeholder.com/15/fcfffd/000000?text=+) `^7`
+- ![#fbc500](https://via.placeholder.com/15/fbc500/000000?text=+) `^8`
+- ![#e9e1f6](https://via.placeholder.com/15/e9e1f6/000000?text=+) `^9`
+
 ```sh
  bind 1 "say ^11 ^22 ^33 ^44 ^55 ^66 ^77 ^88 ^99 ^00 ^aa ^bb ^cc ^dd ^ee ^ff ^gg ^hh ^ii ^jj ^kk ^ll ^mm ^nn ^oo ^pp ^qq ^rr ^ss ^tt ^uu ^vv ^ww ^xx ^yy ^zz"
 ```
